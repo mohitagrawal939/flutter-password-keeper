@@ -1,16 +1,23 @@
 # flutter_password_keeper
 
-Password Keeper
+Flutter Password Keeper
 
-## Getting Started
+Appliction created on windows 10 64 bit And android studio is used for creating app with flutter and dart plugin.
 
-This project is a starting point for a Flutter application.
+User can add different passwords to remember and can check any time as this app works ofline. The data store by app in secured form in device without user permission no one can access secured data.
 
-A few resources to get you started if this is your first Flutter project:
+<p float="left">
+<img src="https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%201.jpg" width="200">
+<img src="https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%202.jpg" width="200">
+  <img src="https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%203.jpg" width="200">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p float="left">
+<img src="https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%204.jpg" width="200">
+<img src="https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%205.jpg" width="200">
+<img src="https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%206.jpg" width="200">
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+<img src="https://github.com/mohitagrawal939/Flutter-dashboard-application/blob/master/Screen%207.jpg" width="200">
+</p>
