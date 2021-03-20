@@ -1,4 +1,4 @@
-# flutter_password_keeper
+# flutter-password-keeper
 
 Flutter Password Keeper
 
