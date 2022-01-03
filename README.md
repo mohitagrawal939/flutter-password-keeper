@@ -2,7 +2,7 @@
 
 Flutter Password Keeper
 
-Appliction created on windows 10 64 bit And android studio is used for creating app with flutter and dart plugin.
+Application created on windows 10 64 bit & android studio is used for creating app with flutter and dart plugin.
 
 User can add different passwords to remember and can check any time as this app works ofline. The data store by app in secured form in device without user permission no one can access secured data.
 
